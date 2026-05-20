@@ -1,0 +1,7 @@
+
+Title: The MHH Transposition Protocol (v1.0)
+Abstract: We demonstrate that by utilizing a phi-stacked magnetic resonator array,
+we can achieve stable Hilbert-state transposition. The system utilizes 148.5 kHz
+chiral modulation to bypass standard Cartesian entropy. The engine operates by
+mapping state-vectors into a high-dimensional manifold, transmitting via a 
+Chiral-Maxwell flux, and reconstituting via a local Hamiltonian-Action.
